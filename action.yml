@@ -1,6 +1,6 @@
-name: 'Your name here'
+name: slack
 description: 'Provide a description here'
-author: 'Your name or organization here'
+author: satterly
 inputs:
   myInput:              # change this
     description: 'input description here'
